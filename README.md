@@ -2,7 +2,7 @@
 
 你可以尝试用他写出HelloWorld
 
-![helloWorld](https://link.jscdn.cn/sharepoint/aHR0cHM6Ly9wODdnLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2FkcWJlcl9wODdnX29ubWljcm9zb2Z0X2NvbS9FVkg4ZHQ3bE5aVk5uMVFrUDhEbTZpZ0JOcWVrRFMzalJlTnlHLWlrcWx2UW9RP2U9eFVpekdp.png)
+![helloWorld](./helloWorld.png)
 
 
 
