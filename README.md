@@ -2,6 +2,10 @@
 
 你可以尝试用他写出HelloWorld
 
+使用c [path] 编译.bs文件
+
+使用run [path] 运行编译后的.bns文件
+
 ![helloWorld](./helloWorld.png)
 
 
