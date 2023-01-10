@@ -1,5 +1,7 @@
 # 这是一个新的编程语言
 
+是对BrainFuck的拙劣模仿
+
 你可以尝试用他写出HelloWorld
 
 使用c [path] 编译.bs文件
