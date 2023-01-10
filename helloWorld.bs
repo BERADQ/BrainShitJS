@@ -1,0 +1,21 @@
+(A)
+/*缓存一个H -> ASCII:72*/
+R-1111111111-L--F-L1111111RRSL-J--L11-O
+/*此时指针所在>H|0 利用其缓存一个E -> ASCII:69*/
+F-L11111RRSL-J--LSXRRYLL-O
+/*缓存两个L -> ASCII:76*/
+1111111-OO
+/*缓存一个O -> ASCII:79*/
+XLY111-O
+/*此时指针所在>OL0|*/
+/*缓存一个W -> ASCII:87*/
+X11111111OY
+/*缓存一个O -> ASCII:79*/
+O
+/*缓存一个R -> ASCII:82*/
+111O
+/*缓存一个L -> ASCII:76*/
+RO
+/*缓存一个D -> ASCII:68*/
+RRSO
+P
