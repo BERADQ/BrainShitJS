@@ -87,7 +87,7 @@ module.exports = (stream: Buffer, name: string, rl: typeof readLine.Interface): 
 			}
 				break;
 			case 0xC: {//将当前Byte作为index，读取B-Buffer中对应的值覆盖当前Byte。
-				mainBuffer[xMainIndex] = BBuffer[mainIndex[xMainIndex]];
+				mainBuffer[xMainIndex] = BBuffer[mainBuffer[xMainIndex]];
 			}
 				break;
 			case 0xD: {//将A-Buffer中的数据根据指定的字符编码一次性输出。
